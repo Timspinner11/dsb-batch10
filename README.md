@@ -13,4 +13,4 @@ My data science and analytics projects
 read out to me at xx
 
 ## Imange
-(https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg)
+![nature](https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg)
